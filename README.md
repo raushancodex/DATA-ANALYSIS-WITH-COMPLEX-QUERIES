@@ -1,17 +1,14 @@
-# 🚀 CODTECH Internship – Task 2: DATA ANALYSIS WITH COMPLEX QUERIES
+COMPANY: CODTECH IT SOLUTIONS
 
-This repository contains SQL scripts and outputs for **Task 2** of my SQL internship at **CODTECH IT Solutions**.
+NAME: RAUSHAN KUMAR
 
-## 📢 Author
+INTERN ID: CTIS7613
 
-- **Name:** AAYUSH BANSAL  
-- **Company Name:** CODTECH IT SOLUTIONS  
-- **Intern ID:** CT04DL706  
-- **Domain:** SQL  
-- **Duration:** 4 WEEKS  
-- **Mentor:** NEELA SANTOSH
+DOMAIN: SQL
 
----
+DURATION: 6 WEEEKS
+
+MENTOR: NEELA SANTOSH
 
 ## 📌 Task Objective
 
