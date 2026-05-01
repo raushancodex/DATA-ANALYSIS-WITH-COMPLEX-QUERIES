@@ -1,0 +1,6 @@
+sale_id,product_name,category,sale_date,quantity,price
+3,Laptop,Electronics,2024-05-02,2,55000.00
+8,Monitor,Electronics,2024-05-06,4,12000.00
+10,Laptop,Electronics,2024-05-08,1,53000.00
+19,Monitor,Electronics,2024-05-13,2,12500.00
+23,Laptop,Electronics,2024-05-15,3,54000.00
